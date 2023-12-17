@@ -1,0 +1,25 @@
+.conteiner {
+  width: 100px;
+  height: 460px;
+  background-color: grey;
+  margin-top: 10%;
+}
+.conteiner .small_conteiner {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.fast {
+  background-color: black;
+  color: #fff;
+  padding: 18px 37px;
+  cursor: pointer;
+}
+
+.slow {
+  background-color: black;
+  color: #fff;
+  padding: 18px 37px;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
